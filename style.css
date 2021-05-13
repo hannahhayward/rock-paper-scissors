@@ -1,0 +1,16 @@
+:root{
+  --black: #575050;
+  --red: #dd1919;
+  --theme-light: #f5f5f5;
+
+}
+
+.bg-black{
+  background-color: var(--black);
+}
+.text-red{
+  color: var(--red);
+}
+.bg-theme-light{
+  background-color: var(--theme-light);
+}
